@@ -20,8 +20,3 @@ Driven by curiosity and a passion for growth, I am constantly seeking opportunit
 ## Technologies
 - **Languages:** JavaScript, HTML, CSS, Python, Java, C++
 - **Frameworks:** React, Node.js
-
-## Let's Connect!
-- **LinkedIn:** [Yael Shteiman](https://www.linkedin.com/in/yaelshteiman/)
-- **Email:** yaelshtaiman@gmail.com
-
