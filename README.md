@@ -15,7 +15,8 @@ Driven by curiosity and a passion for growth, I am constantly seeking opportunit
   A strategic memory card game
 - **[My Portfolio](https://github.com/yaelshteiman/portfolio):**
   A portfolio website built with Next.js and Tailwind CSS
-
+- **[Goodreads Clone](https://github.com/yaelshteiman/good-reads-clone):**
+  *Work in progress*
 
 ## Technologies
 - **Languages:** JavaScript, HTML, CSS, Python, Java, C++
